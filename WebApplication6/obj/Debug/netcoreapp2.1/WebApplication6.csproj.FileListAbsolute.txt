@@ -1,0 +1,14 @@
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.csprojAssemblyReference.cache
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.RazorAssemblyInfo.cache
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.RazorAssemblyInfo.cs
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.AssemblyInfoInputs.cache
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.AssemblyInfo.cs
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.1\WebApplication6.deps.json
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.1\WebApplication6.runtimeconfig.json
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.1\WebApplication6.runtimeconfig.dev.json
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.1\WebApplication6.dll
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.1\WebApplication6.pdb
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.RazorTargetAssemblyInfo.cache
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.dll
+C:\Users\centadmin\Desktop\Entity Framework\11102019\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.1\WebApplication6.pdb
